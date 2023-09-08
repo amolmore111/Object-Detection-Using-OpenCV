@@ -1,5 +1,5 @@
 # Object-Detection-Using-OpenCV
-Object Detection Using OpenCV Library and Using streamlit Python framework
+Object Detection Using OpenCV Library and Using streamlit Python framework.
 
 The Object Detection Web App is a mini project that aims to leverage the power of the YOLO (You Only Look Once) algorithm for real-time object detection in a web-based environment. Object detection is a fundamental task in computer vision that involves identifying and localizing objects within an image or video.
 
